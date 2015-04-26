@@ -1,0 +1,17 @@
+You log goes in this  file.
+
+Start:	Mon Apr 20 22:00:00 2015 -0700
+End:	Mon Apr 20 22:38:03 2015 -0700
+Task:	During this time I created the repository, read through javascript material, and 	uploaded all files from the cs290osu assignment3 repository.
+
+Start:	Tue Apr 21 22:00:00 2015 -0700
+End:	Tue Apr 21 22:33:21 2015 -0700
+Task:	During this time I completed code variables.js.
+
+Start:	Wed Apr 22 19:00:00 2015 -0700
+End:	Wed Apr 22 22:48:02 2015 -0700
+Task:	During this time I worked through the functions.js and objects.js files.
+
+Start:	Fri Apr 24 21:00:00 2015 -0700
+End:	Sat Apr 25 19:23:10 2015 -0700
+Task:	Spent a lot of time troubleshooting the errors generated when running 			qunit_runner.html. Code would generate error messages for the simplest functions. 	Ended up starting over multiple times, researching errors, and rewriting code to 	finally end up with successful tests.
