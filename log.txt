@@ -2,7 +2,7 @@ You log goes in this  file.
 
 Start:	Mon Apr 20 22:00:00 2015 -0700
 End:	Mon Apr 20 22:38:03 2015 -0700
-Task:	During this time I created the repository, read through javascript material, and 	uploaded all files from the cs290osu assignment3 repository.
+Task:	During this time I created the repository, read through javascript material, and uploaded all files from the cs290osu assignment3 repository.
 
 Start:	Tue Apr 21 22:00:00 2015 -0700
 End:	Tue Apr 21 22:33:21 2015 -0700
@@ -14,4 +14,8 @@ Task:	During this time I worked through the functions.js and objects.js files.
 
 Start:	Fri Apr 24 21:00:00 2015 -0700
 End:	Sat Apr 25 19:23:10 2015 -0700
-Task:	Spent a lot of time troubleshooting the errors generated when running 			qunit_runner.html. Code would generate error messages for the simplest functions. 	Ended up starting over multiple times, researching errors, and rewriting code to 	finally end up with successful tests.
+Task:	Spent a lot of time troubleshooting the errors generated when running qunit_runner.html. Code would generate error messages for the simplest functions. Ended up starting over multiple times, researching errors, and rewriting code to finally end up with successful tests.
+
+Start:	Sun Apr 26 09:00:00 2015 -0700
+End:	Sun Apr 26 22:02:00 2015 -0700
+Task:	Started off the day by spending an hour to complete the html file that displays the number of gist pages, the favorites div, and results div. Next, watched lecture videos, researched javascript/dom’s online, and read discussion posts begin work on js file. By early afternoon was finished outlining getList and printList functions. Ran into problems when attempting to construct url, ended up referencing lecture video for code. Tried to work through language filters but was unable to implement in time. 
